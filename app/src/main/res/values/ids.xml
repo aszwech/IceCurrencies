@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mnu_invert" type="id"/>
+    <item name="mnu_codes" type="id"/>
+    <item name="mnu_exit" type="id"/>
+</resources>
